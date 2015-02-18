@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+<Title>
+New Page Title
+</Title>
+<Area Type="area_a">
+<Para PromptObject="true">
+Enter content here
+</Para>
+</Area>
+<Area Type="area_b">
+<Para PromptObject="true">
+Enter content here
+</Para>
+</Area>
+<Area Type="area_c">
+<Para PromptObject="true">
+Enter content here
+</Para>
+</Area>
+<Area Type="subhead">
+<Para PromptObject="true">
+Enter subhead content here
+</Para>
+</Area>
+<Area Type="runner">
+<Para PromptObject="true">
+Enter supporting content here
+</Para>
+</Area>
+<Area Type="main">
+<Para PromptObject="true">
+Enter content here
+</Para>
+</Area>
+</Page>

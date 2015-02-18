@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Site DesignDir="7457362365936669042" FileSpec="7457362365936669042/site.xml" ModifiedTime="1175853454000" NextPageId="14" NoBlank="" PublishDir="" PublishJVMTime="1175853569176" PublishState="1" PublishTime="1175853644000" TemplateXML="smallbusiness.xml" Version="" lock-design=""><PublishManifest><File LastModified="20070406110048" Name="id13.html" Time="1175853647000"/><File LastModified="20070406110048" Name="id6.html" Time="1175853647000"/><File LastModified="20070406110047" Name="id3.html" Time="1175853646000"/><File LastModified="20070406110046" Name="id1.html" Time="1175853645000"/><File LastModified="20070406110047" Name="id2.html" Time="1175853646000"/><File LastModified="20070406110047" Name="id4.html" Time="1175853646000"/><File LastModified="20070406110048" Name="last_published.js" Time="1175853647000"/><File LastModified="20070406110045" Name="index.html" Time="1175853644000"/><File LastModified="20070406110048" Name="id5.html" Time="1175853647000"/></PublishManifest>
+	<Title>Small Business</Title>
+	<Description/>
+	<Page Layout="mkg_curveblue_1.xsl" PageId="index.html" SeparateFile="Y" Type="Home" defselect="Y">
+		<Title>Alba Gas Ltd</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ tlx.tlx.page_counter tlx.tlx.guestbook ]]></GemList><twiddles>
+			
+		<source/></twiddles></Page>
+	<Page Layout="mkg_curveblue_6.xsl" PageId="id1.html" SeparateFile="Y" Type="Our Products" defselect="Y">
+		<Title>Our Services</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles></Page>
+	<Page Layout="mkg_curveblue_7.xsl" PageId="id2.html" SeparateFile="Y" Type="Contact Us" defselect="Y">
+		<Title>Contact Us</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles></Page>
+	
+	
+	<Page Layout="mkg_curveblue_4.xsl" PageId="id4.html" PublishFile="id4.html" SeparateFile="Y" Type="Our Policies" defselect="N" hidden="N">
+		<Title>Recruitment</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles><navbar-title>Recruitment</navbar-title></Page>
+		<Area Type="footer"><Para Align="" Color="" FontDefstyle="1" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV align=center><FONT size=2><STRONG><EM>Alba Gas Ltd, Unit 9, 6 Harmony Row, Govan, Glasgow, G51 3BA. </EM></STRONG></FONT></DIV>
+<DIV align=center><FONT size=2><STRONG><EM>Tel: 0141 445 4422, Fax: 0141 440 2369. e-mail: info@albagas.co.uk www.albagas.co.uk</EM></STRONG></FONT>]]><ButtonPlace/><![CDATA[</DIV>]]></Para></Area><DataSet File="DS_TLXGuestbook_1170345181168.xml" Id="1170345181168" Mode="publish" Type="gem.TLXGuestbook"><Settings AllowViewing="yes" ButtonColor="blue" ButtonTextSign="Sign my Guestbook" ButtonTextView="View my Guestbook" ButtonType="image" EmailAddress="david@albagas.co.uk" EmailSubject="A comment has been added to your guestbook" EntriesPerPage="100" Name="Guestbook" TimeStampFormat="MMMM d, yyyy h:mm aa z" TimeZone="ECT"><Fields><Field Name="id0" Prompt="Name:" Show="yes" Type="text"/><Field Name="id1" Prompt="Email Address:" Show="yes" Type="text"/><Field Name="id2" Prompt="Web site URL:" Show="yes" Type="text"/><Field Name="id3" Prompt="Comments:" Show="yes" Type="textarea"/><Field Name="id4" Prompt="How did you hear about this site?" Show="yes" Type="text"/><Field Name="id5" Prompt="" Show="no" Type="text"/><Field Name="id6" Prompt="" Show="no" Type="text"/><Field Name="id7" Prompt="" Show="no" Type="text"/><Field Name="id8" Prompt="" Show="no" Type="text"/><Field Name="id9" Prompt="" Show="no" Type="text"/></Fields><ResponseMessage>Thank you for your comments.</ResponseMessage><WelcomeMessage>Please tell us how you heard about Alba Gas Ltd and how you liked our web site.</WelcomeMessage></Settings><Entries/></DataSet><Page Layout="mkg_curveblue_7.xsl" PageId="id3.html" PublishFile="id3.html" SeparateFile="Y" Type="Catalog" defselect="N" hidden="Y">
+		<Title>Catalog</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles><navbar-title/></Page><Page Layout="mkg_curveblue_3.xsl" PageId="id13" PublishFile="id13.html" SeparateFile="Y" Type="Blank" hidden="Y">
+<Title>New Page Title</Title>
+
+
+
+
+
+
+<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles><navbar-title/></Page><Page Layout="mkg_curveblue_2.xsl" PageId="id5.html" PublishFile="id5.html" SeparateFile="Y" Type="Our Location" defselect="Y" hidden="Y">
+		<Title>Our Location</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ tlx.tlx.page_counter ]]></GemList><twiddles>
+			
+		<source/></twiddles><navbar-title/></Page><Page Layout="mkg_curveblue_3.xsl" PageId="id6.html" PublishFile="id6.html" SeparateFile="Y" Type="About Us" defselect="N" hidden="Y">
+		<Title>About Us</Title>
+		
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles>
+			
+		<source/></twiddles><navbar-title/></Page></Site>

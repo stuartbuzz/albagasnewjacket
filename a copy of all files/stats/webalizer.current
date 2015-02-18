@@ -1,0 +1,1681 @@
+# Webalizer V2.01-06 Incremental Data - 09/30/2012 18:20:00
+2012 9 30 18 20 0
+6604 5588 344 61 47 136 188670986 1171 677 0
+12 2 481 1 30
+113 97 2611583 13 31 16
+58 41 541887 12 23 19
+267 247 8048734 18 45 24
+211 189 6079110 17 40 19
+261 235 7145136 20 38 24
+190 170 6418158 14 33 20
+131 90 2321504 22 46 26
+101 81 3126185 13 25 18
+98 81 2979678 20 25 21
+151 132 4075694 15 24 18
+292 267 7374074 21 45 29
+329 282 12320146 15 34 20
+300 268 8511366 28 63 36
+229 208 6172611 17 42 19
+94 56 2072731 15 35 18
+58 51 546680 13 31 18
+758 534 18182882 24 84 35
+73 54 2185362 15 19 16
+195 155 5786544 17 31 21
+138 102 3850318 19 39 20
+297 257 10233463 22 48 29
+83 71 1532913 8 22 14
+128 112 4515860 11 24 18
+261 204 8365454 19 55 23
+219 187 6991820 27 51 29
+239 214 5157187 17 41 26
+469 428 14549243 27 53 28
+601 550 20607883 34 64 35
+113 95 2584653 16 32 22
+147 130 3782127 12 28 16
+0 0 0 0 0 0
+66 51 1027572 26
+31 11 92076 13
+62 27 1432358 37
+60 39 531346 23
+69 50 345130 48
+33 23 156840 19
+63 43 1260392 19
+199 180 5606313 21
+413 340 11207769 45
+689 616 24895307 71
+283 247 10487856 45
+351 290 10163786 64
+407 364 13682298 74
+941 713 26312151 114
+620 559 16423192 133
+540 476 15863790 101
+388 339 12653098 83
+241 215 6292006 63
+203 171 3470053 45
+383 343 10557735 39
+198 178 5945200 37
+142 124 4663164 14
+160 140 3574625 23
+62 49 2026929 14
+0
+0
+0
+5588
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+316
+0
+0
+0
+0
+0
+0
+692
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/main-bg-top.jpg
+1 219 1 21502486 0 0
+/
+0 531 0 3050622 406 177
+/images/plumbing.jpg
+1 64 0 4100160 0 0
+/images/corner-bot-right.gif
+1 1 135401440 388 0 0
+/switchsafe.html
+0 42 0 444384 22 10
+/images/est.gif
+1 47 48 175968 0 0
+/images/electric.jpg
+1 65 0 2362555 0 0
+/images/icon-mail.gif
+1 228 1196772432 16985 0 0
+/images/hetas.jpg
+1 48 0 766128 0 0
+/files/PLUGSAFECLOSED.zip
+0 3 1818718063 161898 0 0
+/www.albagas.co.uk_files/oledata.mso
+0 9 1701719673 1048824 0 0
+/images/1page-img4.jpg
+1 191 16 8136900 0 0
+/images/border-bot.gif
+1 1 758200109 164 0 0
+/images/1page-img3.jpg
+1 192 1 11506308 0 0
+/old/images/plugsafeclosed_web.jpg
+1 16 0 59872 0 0
+/flash/header_v8.swf
+0 2 48 1275168 0 0
+/images/logo.gif
+1 229 0 660528 0 0
+/layout.css
+0 237 1093145716 753141 0 0
+/images/menu.png
+1 214 0 22110 0 0
+/images/1page-img2.jpg
+1 200 1634560303 7853895 0 0
+/images/innovations.gif
+1 21 0 84189 0 0
+/contact.php
+0 152 40 772035 0 0
+/ie.css
+0 6 1634038574 132 0 0
+/images/1page-img1.jpg
+1 191 0 2009700 0 0
+/images/gs.gif
+1 48 0 65328 0 0
+/images/burley-logo.jpg
+1 48 1836016430 222960 0 0
+/images/job.jpg
+1 30 825112377 34803 0 0
+/images/main-bg-bot.jpg
+1 215 0 716163 0 0
+/images/arrow.gif
+1 180 0 10370 0 0
+/images/line-ver.gif
+1 214 40 8600 0 0
+/images/line-ver1.gif
+1 1 48 43 0 0
+/privacy.html
+0 66 40 620553 35 16
+/www.albagas.co.uk_files/pubmaster001.htm
+0 1 0 3931 1 1
+/images/line-hor.gif
+1 127 0 5332 0 0
+/images/corner-bot-left.gif
+1 1 0 383 0 0
+/images/2page-img2.jpg
+1 49 1852139884 632443 0 0
+/files/switchsafe.easm
+0 8 1663983977 631240 0 0
+/images/oftec-registered-badge.jpg
+1 50 1647209591 413560 0 0
+/style.css
+0 240 1952544367 2440224 0 0
+/flash/header_v8.1.swf
+0 177 1836345390 108091610 0 0
+/images/british_gas.gif
+1 48 1920216681 79920 0 0
+/images/map.jpg
+1 66 28015 741180 0 0
+/images/footer-divider.gif
+1 214 40 8844 0 0
+/old/images/switchsafe_web.jpg
+1 20 775500337 117660 0 0
+/images/main-tail.jpg
+1 214 0 92862 0 0
+/images/gas_safe.gif
+1 48 38 107712 0 0
+/images/niceic.gif
+1 48 56 33072 0 0
+/images/border-right.gif
+1 1 960048433 67 0 0
+/images/default.png
+1 212 40 21890 0 0
+/old/images/solidworks.jpg
+1 6 0 16710 0 0
+/innovation.html
+0 76 56 384962 29 15
+/old/images/PLUGSAFEOPEN.jpg
+1 6 0 28572 0 0
+/old/images/switchsafe_open.jpg
+1 8 48 46296 0 0
+/about.html
+0 128 1663984226 910800 38 38
+/recruitment.html
+0 127 1915630640 924996 73 56
+/images/subscribe-submit.gif
+1 1 135282112 133 0 0
+/images/border-left.gif
+1 1 48 67 0 0
+/images/ecmk.gif
+1 48 48 72000 0 0
+/services.html
+0 133 1718183726 1034712 40 38
+/images/marker.gif
+1 98 27757 4655 0 0
+/plugsafe.html
+0 37 779384175 296391 13 16
+# End Of Table - urls
+# -sites- (monthly)
+spider26.picsearch.com
+0 1 0 0 1 1347594191
+/
+host86-130-138-169.range86-130.btcentralplus.com
+0 37 34 1099672 1 1347303554
+/services.html
+crawl-66-249-72-151.googlebot.com
+0 18 7 673313 6 1348465097
+/
+cdata05.jigsaw.com
+0 1 1 6277 1 1348875324
+/
+static.88-198-0-42.clients.your-server.de
+0 26 24 329574 4 1348748365
+/
+host217-42-109-194.range217-42.btcentralplus.com
+0 8 0 1672 0 0
+-
+host-62-24-252-133.as13285.net
+0 2 1 6485 1 1348606974
+/
+2.25.12.126
+0 39 37 1700465 2 1347403908
+/about.html
+msnbot-207-46-199-170.search.msn.com
+0 2 1 8648 0 0
+-
+93-186-23-82.rdns.blackberry.net
+0 8 8 184567 1 1347523938
+/
+crawl-66-249-71-130.googlebot.com
+0 2 1 6485 1 1346770966
+/
+msnbot-157-55-33-110.search.msn.com
+0 3 0 416 1 1348883579
+/
+host86-140-42-37.range86-140.btcentralplus.com
+0 19 18 929462 1 1346750868
+/
+host81-157-217-179.range81-157.btcentralplus.com
+0 23 21 946041 1 1348215505
+/
+93-97-139-181.zone5.bethere.co.uk
+0 32 31 419412 1 1346825217
+/services.html
+msnbot-157-55-33-49.search.msn.com
+0 2 0 208 1 1348986504
+/
+host81-137-149-241.in-addr.btopenworld.com
+0 22 21 945832 1 1346748461
+/
+genld-224-221.t-mobile.co.uk
+0 19 18 929462 1 1348726480
+/
+msnbot-157-55-33-18.search.msn.com
+0 1 0 211 1 1347037617
+-
+msnbot-157-55-33-98.search.msn.com
+0 6 3 37656 3 1348156252
+/switchsafe.html
+host217-42-25-210.range217-42.btcentralplus.com
+0 19 18 929462 1 1348858883
+/
+cpc17-seve19-2-0-cust249.13-3.cable.virginmedia.com
+0 20 20 309790 1 1346512882
+/
+msnbot-131-253-47-235.search.msn.com
+0 2 0 421 1 1347032839
+-
+93-97-143-112.zone5.bethere.co.uk
+0 20 18 929671 1 1348258372
+/
+aico16.gotadsl.co.uk
+0 48 40 1136498 1 1348840770
+/
+host86-167-250-160.range86-167.btcentralplus.com
+0 24 22 952318 1 1348648444
+/
+b0fa025a.bb.sky.com
+0 28 25 1054923 1 1347398271
+/services.html
+msnbot-157-55-34-180.search.msn.com
+0 2 0 208 1 1346609869
+/recruitment.html
+83.149.126.98
+0 2 1 6485 1 1348164983
+/
+host-92-4-11-164.as43234.net
+0 37 34 1099672 2 1348947153
+/about.html
+77.107.171.4
+0 22 19 1565713 1 1347283675
+/
+207.189.121.45
+0 6 6 48996 2 1346818478
+/services.html
+207.189.121.46
+0 2 0 606 1 1348123075
+/
+msnbot-157-55-32-109.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-131-253-46-241.search.msn.com
+0 6 1 7111 3 1348735463
+/
+164-177-158-12.static.cloud-ips.co.uk
+0 2 1 6485 1 1348857541
+/
+msnbot-131-253-47-183.search.msn.com
+0 3 2 19330 1 1348600726
+/plugsafe.html
+ks311135.kimsufi.com
+0 1 1 0 1 1346726310
+/
+206-225-82-64.dedicated.codero.net
+0 18 18 929253 1 1347722446
+/
+213.205.224.241
+0 1 0 209 1 1348485310
+-
+user-5af4ecd8.broadband.tesco.net
+0 19 18 929462 1 1347102179
+/
+95-26-217-219.broadband.corbina.ru
+0 5 5 656563 1 1348166070
+/
+b0fa5ba3.bb.sky.com
+0 17 17 293420 1 1348347544
+/
+sticker03.yandex.ru
+0 6 4 25524 1 1348460124
+/
+crawl-66-249-76-63.googlebot.com
+0 5 3 20974 4 1348973920
+/
+82.132.212.28
+0 28 28 213179 1 1346783844
+/about.html
+86-41-41-74-dynamic.b-ras2.dbn.dublin.eircom.net
+0 35 34 1012054 1 1348236734
+/about.html
+baiduspider-180-76-5-58.crawl.baidu.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-5-169.crawl.baidu.com
+0 1 1 7920 1 1347460798
+/about.html
+msnbot-157-55-32-75.search.msn.com
+0 2 1 5305 0 0
+-
+ip-188-121-60-124.ip.secureserver.net
+0 2 2 6277 1 1348673992
+/
+baiduspider-180-76-5-61.crawl.baidu.com
+0 1 1 78905 0 0
+-
+host81-153-59-64.range81-153.btcentralplus.com
+0 17 17 276552 1 1348589731
+/services.html
+baiduspider-180-76-5-65.crawl.baidu.com
+0 1 0 0 1 1347253658
+/
+msnbot-157-55-32-84.search.msn.com
+0 1 0 208 0 0
+-
+213.186.119.139.utel.net.ua
+0 1 1 9561 1 1348536789
+/plugsafe.html
+212.183.128.126
+0 54 52 2028716 2 1348042712
+/
+baiduspider-180-76-5-183.crawl.baidu.com
+0 1 1 6277 1 1347273418
+/
+130-204-88-161.2074469383.ddns.cablebg.net
+0 25 23 1038387 1 1347736122
+/services.html
+baiduspider-180-76-5-87.crawl.baidu.com
+0 1 0 208 0 0
+-
+gyles.demon.co.uk
+0 21 19 169255 1 1347583595
+/switchsafe.html
+202.46.56.52
+0 1 1 5097 0 0
+-
+abts-north-dynamic-233.176.68.182.airtelbroadband.in
+0 21 18 68896 1 1348635948
+/
+msnbot-157-55-33-50.search.msn.com
+0 2 0 208 1 1346775015
+/
+70-154-80-80.filibe.net
+0 14 13 218753 4 1348661312
+/
+baiduspider-180-76-5-90.crawl.baidu.com
+0 2 2 16326 2 1348259351
+/services.html
+host81-148-82-242.in-addr.btopenworld.com
+0 23 21 946041 1 1348498622
+/
+node.beautystore.com.ua
+0 1 1 6277 1 1347744819
+/
+180.76.6.212
+0 1 1 6277 1 1347474486
+/
+90.246.45.144
+0 22 21 945832 1 1346855698
+/
+develec-adsl.demon.co.uk
+0 37 23 305220 1 1348734793
+/recruitment.html
+host86-167-56-41.range86-167.btcentralplus.com
+0 54 51 1936628 2 1348827533
+/about.html
+edenscott-colo-router.lumison.net
+0 76 40 1831033 2 1348484909
+/recruitment.html
+87.114.251.153.bizsurf.thn-ag1.dyn.plus.net
+0 19 18 929462 1 1346966655
+/
+host217-40-152-139.in-addr.btopenworld.com
+0 8 8 57492 1 1348119607
+/services.html
+180.76.6.223
+0 1 0 208 0 0
+-
+208-115-111-67-reverse.wowrack.com
+0 4 0 832 0 0
+-
+no-dns-yet.demon.co.uk
+0 1 0 0 1 1348611287
+/
+bri05-1-78-215-172-16.fbx.proxad.net
+0 3 3 18831 2 1348594303
+/
+host81-149-149-147.in-addr.btopenworld.com
+0 19 17 154824 1 1347544761
+/switchsafe.html
+5acfa28f.bb.sky.com
+0 19 18 929462 1 1347617966
+/
+host86-135-138-50.range86-135.btcentralplus.com
+0 20 18 929671 1 1346839379
+/
+5ad79905.bb.sky.com
+0 31 31 354610 1 1348858221
+/about.html
+msnbot-157-55-35-99.search.msn.com
+0 2 0 416 0 0
+-
+ec2-107-22-0-178.compute-1.amazonaws.com
+0 12 11 85897 3 1347820362
+/about.html
+93-186-31-81.rdns.blackberry.net
+0 11 10 213649 1 1348544536
+/services.html
+ec2-184-73-121-155.compute-1.amazonaws.com
+0 5 5 37679 1 1348561502
+/about.html
+crawl-66-249-72-130.googlebot.com
+0 36 17 743105 20 1347680861
+/plugsafe.html
+msnbot-131-253-47-199.search.msn.com
+0 5 0 1044 1 1347969955
+-
+198-61-192-62.static.cloud-ips.com
+0 1 1 6277 1 1347066591
+/
+cpc1-grnk7-2-0-cust444.14-2.cable.virginmedia.com
+0 44 39 1125423 1 1346769843
+/
+202.46.57.132
+0 1 1 5422 1 1347192635
+/innovation.html
+spider27.picsearch.com
+0 3 0 624 0 0
+-
+203.110.202.234
+0 17 17 293420 1 1347831407
+/
+crawl-66-249-72-20.googlebot.com
+0 2 1 6485 1 1347085625
+/
+host81-137-253-246.in-addr.btopenworld.com
+0 47 44 2632087 2 1346934366
+/
+38.111.147.84
+0 33 3 28250 2 1347677674
+/
+cpc4-john1-0-0-cust652.14-1.cable.virginmedia.com
+0 17 17 293420 1 1346885925
+/
+95.151.34.66
+0 17 17 293420 1 1346787535
+/
+212.62.9.200
+0 37 33 1094965 1 1346843898
+/
+b5131404.yst.yahoo.net
+0 19 19 1565086 1 1347923692
+/
+radius4.bir.opaltelecom.net
+0 2 2 11374 1 1348834043
+/
+static.2.92.40.188.clients.your-server.de
+0 1 1 6277 1 1346939531
+/
+213.186.127.6.utel.net.ua
+0 1 1 8114 1 1347890632
+/recruitment.html
+31.73.139.248
+0 19 18 929462 1 1347997870
+/
+212.113.37.106
+0 1 0 208 0 0
+-
+msnbot-157-56-93-150.search.msn.com
+0 4 1 8336 2 1348811955
+/about.html
+180.76.6.26
+0 1 1 6277 1 1347330296
+/
+180.76.6.28
+0 1 0 0 1 1346835640
+/
+web42.alexiadns.com
+0 6 3 19455 3 1348831755
+/
+198-101-221-219.static.cloud-ips.com
+0 20 18 929671 1 1348742733
+/
+host81-153-59-38.range81-153.btcentralplus.com
+0 27 24 1044873 2 1347119027
+/
+msnbot-157-55-33-17.search.msn.com
+0 2 0 208 1 1348069337
+/
+ec2-107-22-48-53.compute-1.amazonaws.com
+0 5 5 37679 1 1348200522
+/about.html
+bot203.sirketce.com
+0 18 17 293629 1 1347520819
+/
+msnbot-131-253-46-231.search.msn.com
+0 1 0 208 0 0
+-
+5ac57e3a.bb.sky.com
+0 21 20 943893 1 1346703041
+/
+abts-north-dynamic-049.100.68.182.airtelbroadband.in
+0 24 21 184651 2 1348210105
+/
+5aca3be7.bb.sky.com
+0 23 22 402345 1 1348423213
+/services.html
+baiduspider-180-76-5-142.crawl.baidu.com
+0 1 0 208 0 0
+-
+security.lightspeedsystems.com
+0 14 12 164995 1 1347647290
+/recruitment.html
+195.59.199.10
+0 23 21 946041 1 1348048163
+/
+crawl03.exabot.com
+0 24 13 1076220 4 1348488176
+/
+202.46.56.161
+0 1 1 8114 1 1347192630
+/recruitment.html
+92.f5.344a.static.theplanet.com
+0 2 2 12554 2 1348800908
+/
+msnbot-157-55-32-117.search.msn.com
+0 4 0 416 2 1347559832
+/about.html
+msnbot-131-253-47-191.search.msn.com
+0 2 0 418 1 1346824895
+-
+173.227.230.236
+0 8 6 49602 4 1348296845
+/
+msnbot-157-55-33-84.search.msn.com
+0 6 1 9047 3 1348961513
+/plugsafe.html
+92.41.76.222.threembb.co.uk
+0 15 14 142860 0 0
+-
+crawl-66-249-72-145.googlebot.com
+0 10 5 662552 3 1346975428
+/
+baiduspider-180-76-5-164.crawl.baidu.com
+0 1 1 9561 1 1347384276
+/plugsafe.html
+host109-145-28-250.range109-145.btcentralplus.com
+0 25 24 955284 1 1348833583
+/
+host213-123-175-127.in-addr.btopenworld.com
+0 17 17 293420 1 1346921904
+/
+93-186-23-84.rdns.blackberry.net
+0 7 7 108700 0 0
+-
+85.19.205.124
+0 2 1 6485 1 1346947607
+/
+cpc1-kirk2-0-0-cust11.14-1.cable.virginmedia.com
+0 21 21 302915 1 1349025857
+/recruitment.html
+host86-177-157-19.range86-177.btcentralplus.com
+0 40 36 1116208 1 1347872073
+/services.html
+host86-140-12-132.range86-140.btcentralplus.com
+0 19 18 929462 1 1347468005
+/
+msnbot-157-55-33-22.search.msn.com
+0 1 0 208 0 0
+-
+proxy03.staffs.ifl.net
+0 19 17 154824 1 1347268509
+/switchsafe.html
+212.7.194.137
+0 1 1 6277 1 1348657116
+/
+208.115.113.83
+0 21 10 86548 9 1348474798
+/
+host77-32-dynamic.23-79-r.retail.telecomitalia.it
+0 20 18 1565295 1 1347195714
+/
+gun-ghluasad-80-80-188-15.hebrides.net
+0 19 18 929462 1 1348693180
+/
+msnbot-157-55-33-31.search.msn.com
+0 2 0 208 1 1348369945
+/
+host-92-24-93-187.ppp.as43234.net
+0 11 10 820688 1 1348606942
+/
+spider24.picsearch.com
+0 3 0 644 0 0
+-
+host217-43-46-17.range217-43.btcentralplus.com
+0 25 23 1038387 1 1348826137
+/services.html
+static.67.38.4.46.clients.your-server.de
+0 77 77 599718 7 1348836367
+/plugsafe.html
+202.46.54.120
+0 1 1 8114 1 1347192630
+/recruitment.html
+msnbot-157-55-32-113.search.msn.com
+0 2 0 208 1 1347725849
+/plugsafe.html
+80.40.134.103
+0 6 3 18275 1 1348840661
+/
+80.40.134.104
+0 4 2 16548 1 1348840650
+/services.html
+host81-158-110-216.range81-158.btcentralplus.com
+0 19 18 929462 1 1348847548
+/
+baiduspider-180-76-5-93.crawl.baidu.com
+0 1 1 6277 1 1347381123
+/
+5ac6fd29.bb.sky.com
+0 31 29 1073770 1 1346502928
+/innovation.html
+cpc1-renf1-0-0-cust490.14-1.cable.virginmedia.com
+0 33 33 370268 1 1348778642
+/
+msnbot-157-55-32-162.search.msn.com
+0 3 1 12775 1 1348508525
+/switchsafe.html
+host-62-24-181-135.as13285.net
+0 5 3 19147 2 1347895063
+/services.html
+213.186.122.3.utel.net.ua
+0 1 1 5097 0 0
+-
+80.40.134.120
+0 11 7 50778 2 1348947121
+/
+msnbot-157-56-94-169.search.msn.com
+0 257 228 1647310 105 1349018599
+/about.html
+img-spider-199-36-240-21.yandex.com
+0 7 1 42803 0 0
+-
+host-92-22-47-43.as13285.net
+0 26 24 418881 1 1347895031
+/services.html
+624667111.dlserver.eu
+0 3 2 22113 2 1347898780
+/plugsafe.html
+host86-171-129-132.range86-171.btcentralplus.com
+0 26 24 955493 1 1348832032
+/recruitment.html
+cpc2-renf5-2-0-cust357.14-1.cable.virginmedia.com
+0 20 19 940454 1 1347650756
+/
+89.211.81.65
+0 18 18 929253 1 1348850767
+/
+msnbot-65-52-111-241.search.msn.com
+0 3 3 26775 1 1348601497
+/switchsafe.html
+msnbot-65-55-24-219.search.msn.com
+0 2 0 415 1 1346986149
+-
+c-83-233-186-82.cust.bredband2.com
+0 1 1 6277 1 1348388468
+/
+host-92-22-21-245.as13285.net
+0 39 37 1019298 1 1347056514
+/innovation.html
+host86-132-174-189.range86-132.btcentralplus.com
+0 37 37 482268 1 1348871776
+/innovation.html
+msnbot-157-56-93-153.search.msn.com
+0 2 0 208 1 1346685990
+/about.html
+213.205.232.70
+0 17 17 293420 1 1347554172
+/
+host217-43-146-166.range217-43.btcentralplus.com
+0 42 40 1127922 1 1346778782
+/recruitment.html
+180.251.69.249
+0 21 18 1540949 1 1348850093
+/
+msnbot-157-55-35-36.search.msn.com
+0 1 0 208 0 0
+-
+cpc3-bahd2-0-0-cust767.14-2.cable.virginmedia.com
+0 22 22 402136 1 1346702593
+/services.html
+msnbot-157-55-35-76.search.msn.com
+0 5 0 624 2 1347707906
+/
+host217-41-65-11.in-addr.btopenworld.com
+0 25 21 394697 1 1346839977
+/
+59-148-250-212.static.virginmedia.com
+0 24 22 951138 1 1348232975
+/
+178-222-118-118.dynamic.isp.telekom.rs
+0 1 1 6277 1 1347855951
+/
+194.36.54.1
+0 20 19 932901 1 1347460554
+/
+93-97-140-31.zone5.bethere.co.uk
+0 25 21 303542 2 1348257561
+/recruitment.html
+bot204.sirketce.com
+0 31 26 367581 5 1347520836
+/
+host81-155-33-36.range81-155.btcentralplus.com
+0 23 23 2217289 1 1347528998
+/
+121.96.61.134.bti.net.ph
+0 2 1 6485 1 1348122415
+/
+188.94.23.247
+0 7 7 43939 3 1348533689
+/
+93-186-31-80.rdns.blackberry.net
+0 12 12 188696 1 1348544520
+/
+static-173-212-140-21.ptr.terago.net
+0 3 3 20708 1 1347497856
+/
+host86-137-115-99.range86-137.btcentralplus.com
+0 19 18 929462 1 1348163944
+/
+msnbot-131-253-46-102.search.msn.com
+0 3 2 17981 1 1347763164
+/services.html
+109-93-26-171.dynamic.isp.telekom.rs
+0 10 10 37957 4 1347526827
+/about.html
+mail.quizclothing.co.uk
+0 20 18 929671 1 1347969369
+/
+msnbot-157-56-93-201.search.msn.com
+0 6 2 16435 4 1348156165
+/privacy.html
+80-46-215-105.static.dsl.as9105.com
+0 27 25 954622 1 1348643718
+/
+msnbot-131-253-47-215.search.msn.com
+0 2 0 418 1 1347545927
+-
+msnbot-131-253-46-212.search.msn.com
+0 2 1 6485 1 1347278220
+/
+msnbot-157-55-33-47.search.msn.com
+0 2 0 415 1 1348634400
+-
+host81-154-215-122.range81-154.btcentralplus.com
+0 38 34 1099881 1 1348995247
+/services.html
+ip-176-195-94-204.bb.netbynet.ru
+0 5 5 656563 1 1346640879
+/
+baiduspider-180-76-5-138.crawl.baidu.com
+0 1 0 0 1 1348707486
+/
+31-222-184-25.static.cloud-ips.co.uk
+0 3 2 18495 2 1348899558
+/recruitment.html
+86.112.85.191
+0 23 21 946041 1 1348133387
+/
+msnbot-65-55-24-233.search.msn.com
+0 1 1 78905 0 0
+-
+msnbot-157-55-32-77.search.msn.com
+0 3 1 5513 0 0
+-
+baiduspider-180-76-5-149.crawl.baidu.com
+0 1 0 0 1 1348519289
+/
+radius3.bir.opaltelecom.net
+0 2 1 8420 1 1348833780
+/services.html
+213.205.236.16
+0 19 18 929462 1 1346704105
+/
+host109-152-168-177.range109-152.btcentralplus.com
+0 17 17 293420 1 1347564371
+/
+202.46.51.125
+0 1 1 5422 1 1347192635
+/innovation.html
+crawl-93-180-64-145.botje.com
+0 2 1 6485 1 1347155752
+/
+msnbot-157-55-32-86.search.msn.com
+0 1 0 208 0 0
+-
+host81-157-111-132.range81-157.btcentralplus.com
+0 19 17 152521 1 1347905002
+/recruitment.html
+83.71.166.34
+0 26 21 1050152 1 1347890310
+/
+crawler1.bl.uk
+0 52 49 454070 1 1347375821
+/switchsafe.html
+companiesintheuk.co.uk
+0 3 2 11582 1 1348592831
+/
+msnbot-157-55-32-116.search.msn.com
+0 2 0 208 1 1347098614
+/
+spider-95-108-244-252.yandex.com
+0 1 1 6277 1 1346594400
+/
+93-186-23-80.rdns.blackberry.net
+0 3 2 362 0 0
+-
+5ac9651a.bb.sky.com
+0 27 25 1685657 2 1348237215
+/recruitment.html
+cpc10-sgyl34-2-0-cust238.18-2.cable.virginmedia.com
+0 24 23 1038178 1 1346517426
+/services.html
+host-62-24-181-134.as13285.net
+0 8 5 37132 3 1347895022
+/
+baiduspider-180-76-5-67.crawl.baidu.com
+0 1 1 6277 1 1347222573
+/
+host81-154-92-110.range81-154.btcentralplus.com
+0 26 25 1677154 1 1348496844
+/
+jawknee.plus.com
+0 19 18 929462 1 1348574527
+/
+213.186.119.131.utel.net.ua
+0 1 1 78905 0 0
+-
+31-222-142-254.static.cloud-ips.co.uk
+0 1 1 6277 1 1348265010
+/
+pso-132.picsearch.com
+0 4 0 860 0 0
+-
+msnbot-65-55-52-92.search.msn.com
+0 2 2 17441 1 1347760648
+/switchsafe.html
+5ad9ffdf.bb.sky.com
+0 19 18 929462 1 1348762211
+/
+baiduspider-180-76-5-185.crawl.baidu.com
+0 1 1 6277 1 1347273417
+/
+213.186.119.142.utel.net.ua
+0 3 3 68163 2 1347939219
+/about.html
+host-92-22-46-161.as13285.net
+0 23 23 174307 1 1347373519
+/about.html
+host86-135-140-193.range86-135.btcentralplus.com
+0 35 34 1099254 1 1349011400
+/about.html
+199.87.229.21
+0 1 1 6277 1 1348043041
+/
+46.240.115.230
+0 26 23 1218557 1 1348430053
+/services.html
+128-72-105-127.broadband.corbina.ru
+0 10 10 1313126 2 1348212701
+/
+93-97-158-92.zone5.bethere.co.uk
+0 55 50 1259068 1 1347220300
+/about.html
+195.59.178.151
+0 39 25 1052818 1 1347453584
+/services.html
+213.186.127.28.utel.net.ua
+0 1 1 8212 1 1347923020
+/services.html
+87.114.118.135.plusnet.thn-ag2.dyn.plus.net
+0 22 22 402136 1 1346713778
+/services.html
+msnbot-157-55-36-49.search.msn.com
+0 2 0 421 1 1346496365
+-
+msnbot-157-55-32-152.search.msn.com
+0 2 1 5305 0 0
+-
+host86-131-155-203.range86-131.btcentralplus.com
+0 19 18 929462 1 1348400254
+/
+msnbot-65-55-52-119.search.msn.com
+0 3 0 626 1 1348610679
+-
+88-104-204-116.dynamic.dsl.as9105.com
+0 45 42 1142113 1 1348579366
+/plugsafe.html
+msnbot-157-55-32-60.search.msn.com
+0 4 0 416 2 1348307081
+/switchsafe.html
+82.132.211.152
+0 2 2 9403 1 1347357474
+/recruitment.html
+82.132.211.158
+0 11 11 61076 1 1347357521
+/about.html
+82.132.211.159
+0 19 17 154824 1 1347357407
+/switchsafe.html
+031011220116.warszawa.vectranet.pl
+0 1 1 6277 1 1348740663
+/
+vps2057.directvps.nl
+0 2 0 208 1 1346767877
+/
+cpc4-ruth7-2-0-cust104.14-1.cable.virginmedia.com
+0 19 18 929462 1 1348493785
+/
+142-4-41-197.static.webnx.com
+0 8 8 57492 2 1348915805
+/privacy.html
+mail.calorgas.co.uk
+0 98 95 3091833 3 1348834556
+/
+bot205.sirketce.com
+0 2 1 6485 1 1346917730
+/
+202.46.57.60
+0 1 1 5097 0 0
+-
+msnbot-157-55-35-48.search.msn.com
+0 1 1 5422 1 1348948000
+/innovation.html
+msnbot-157-55-36-36.search.msn.com
+0 4 0 416 2 1347374017
+/switchsafe.html
+027ca71c.bb.sky.com
+0 11 11 820941 1 1348399846
+/
+msnbot-157-55-33-182.search.msn.com
+0 2 0 208 1 1347115410
+/
+host81-136-210-53.in-addr.btopenworld.com
+0 1402 1102 46271332 23 1348852321
+/
+s1.960.clients.serverdeals.org
+0 2 1 6485 1 1348772476
+/
+host86-158-70-193.range86-158.btcentralplus.com
+0 33 31 990839 1 1347293186
+/about.html
+msnbot-157-55-33-111.search.msn.com
+0 1 0 208 0 0
+-
+31-222-191-216.static.cloud-ips.co.uk
+0 88 63 469008 62 1349023470
+/recruitment.html
+crawl-66-249-72-194.googlebot.com
+0 5 3 19247 3 1348783979
+/
+212.183.128.88
+0 30 30 354588 1 1348751746
+/about.html
+crawl-66-249-72-218.googlebot.com
+0 16 14 127830 3 1348661633
+/recruitment.html
+5e0b04a6.bb.sky.com
+0 19 18 929462 1 1348223716
+/
+b0fa43b4.bb.sky.com
+0 19 18 929462 1 1348910878
+/
+212.183.128.4
+0 18 18 299697 1 1348938724
+/
+cpc10-thor5-2-0-cust150.14-2.cable.virginmedia.com
+0 37 35 1016569 1 1348502064
+/recruitment.html
+host81-133-32-98.in-addr.btopenworld.com
+0 19 19 292879 1 1347881173
+/services.html
+baiduspider-180-76-5-100.crawl.baidu.com
+0 2 1 11200 0 0
+-
+93-97-155-11.zone5.bethere.co.uk
+0 22 22 402136 1 1346613541
+/services.html
+host-78-150-81-99.as13285.net
+0 24 24 418463 1 1348834011
+/
+46ob.scansafe.net
+0 20 19 940454 1 1348754162
+/
+cpc2-pert4-2-0-cust338.sgyl.cable.virginmedia.com
+0 33 31 458754 1 1348643005
+/about.html
+msnbot-157-55-35-113.search.msn.com
+0 2 0 208 1 1346488318
+/plugsafe.html
+msnbot-157-55-34-25.search.msn.com
+0 1 0 208 0 0
+-
+b5131360.yst.yahoo.net
+0 24 24 187449 1 1348090796
+/about.html
+host213-123-199-143.in-addr.btopenworld.com
+0 28 25 1054923 1 1347372247
+/services.html
+msnbot-157-55-35-53.search.msn.com
+0 2 0 208 1 1346587919
+/
+41.58.28.185
+0 16 16 293341 1 1348775515
+/
+cun-201-140-186-25.gtel.net.mx
+0 34 34 304206 1 1348677487
+/recruitment.html
+msnbot-131-253-47-153.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-157-55-32-58.search.msn.com
+0 2 0 431 0 0
+-
+msnbot-131-253-46-251.search.msn.com
+0 3 0 208 2 1347451742
+/
+host86-133-220-16.range86-133.btcentralplus.com
+0 18 18 929253 1 1348863633
+/
+msnbot-157-55-32-98.search.msn.com
+0 2 0 423 1 1347768655
+-
+static.88-198-25-25.clients.your-server.de
+0 1 1 6277 1 1346691956
+/
+ks380405.kimsufi.com
+0 14 7 52691 4 1348599422
+-
+host86-167-240-93.range86-167.btcentralplus.com
+0 19 19 869145 1 1348053972
+/about.html
+baiduspider-180-76-5-148.crawl.baidu.com
+0 1 0 0 1 1348863854
+/
+abts-north-dynamic-055.107.68.182.airtelbroadband.in
+0 23 21 946041 1 1347003430
+/
+77.241.230.245
+0 27 25 423075 1 1348061532
+/services.html
+164-177-157-244.static.cloud-ips.co.uk
+0 4 3 20876 2 1348994038
+/
+host-92-3-164-148.as43234.net
+0 20 18 929671 1 1347544788
+/
+baiduspider-180-76-5-48.crawl.baidu.com
+0 1 0 0 1 1347457386
+/
+host86-151-79-171.range86-151.btcentralplus.com
+0 25 23 1038387 1 1348835132
+/services.html
+cpc19-clyd4-2-0-cust58.14-1.cable.virginmedia.com
+0 35 34 1099254 1 1348734857
+/about.html
+msnbot-157-55-35-100.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-157-55-33-24.search.msn.com
+0 4 0 838 2 1346618674
+-
+89.250.46.8
+0 23 21 946041 1 1346939540
+/
+baiduspider-180-76-5-59.crawl.baidu.com
+0 1 1 12344 1 1347969190
+/switchsafe.html
+ip-87-86-32-98.easynet.co.uk
+0 25 23 1038387 1 1348826975
+/services.html
+95.145.120.174
+0 26 24 1044664 1 1349025692
+/
+host86-169-29-166.range86-169.btcentralplus.com
+0 25 23 1038387 2 1348653514
+/
+ethc00112696-cpe.access.uk.sargasso.net
+0 43 41 1142128 1 1347634421
+/
+151.70.96.190
+0 19 18 929462 1 1348818752
+/
+host217-41-57-133.in-addr.btopenworld.com
+0 34 31 991048 1 1346844401
+/about.html
+host86-167-246-2.range86-167.btcentralplus.com
+0 27 24 1044873 1 1347111228
+/
+baiduspider-180-76-5-184.crawl.baidu.com
+0 1 0 208 0 0
+-
+host86-143-253-66.range86-143.btcentralplus.com
+0 1 1 6277 1 1347655436
+/
+ycar19.mobile.sp1.yahoo.com
+0 2 1 6486 1 1348831402
+/
+69.58.178.56
+0 11 10 79605 2 1348157984
+/switchsafe.html
+68-115-95-92.dhcp.roch.mn.charter.com
+0 2 1 6485 1 1347556675
+/
+host86-139-179-96.range86-139.btcentralplus.com
+0 24 23 1038178 1 1348435487
+/services.html
+baiduspider-180-76-5-191.crawl.baidu.com
+0 1 1 10992 0 0
+-
+baiduspider-180-76-5-195.crawl.baidu.com
+0 1 1 6277 1 1348811614
+/
+host86-158-22-250.range86-158.btcentralplus.com
+0 39 37 1122067 1 1348312285
+/about.html
+msnbot-157-55-34-179.search.msn.com
+0 3 1 10381 2 1347375300
+/privacy.html
+msnbot-65-52-111-124.search.msn.com
+0 3 3 22351 1 1347339827
+/about.html
+213.186.127.8.utel.net.ua
+0 1 1 10173 1 1347223571
+/privacy.html
+b5131274.yst.yahoo.net
+0 19 18 929462 1 1346680881
+/
+baiduspider-180-76-5-91.crawl.baidu.com
+0 1 1 6277 1 1347566677
+/
+crawl-66-249-71-104.googlebot.com
+0 24 10 72362 14 1348086455
+/
+c.aihit.com
+0 13 12 794285 1 1348495125
+/switchsafe.html
+109.97.6.170
+0 1 1 6277 1 1347814738
+/
+cpc2-bbrg4-2-0-cust77.14-2.cable.virginmedia.com
+0 21 20 309999 1 1346699502
+/
+host86-129-79-218.range86-129.btcentralplus.com
+0 1 1 6277 1 1347896792
+/
+spider-199-21-99-85.yandex.com
+0 96 56 1643840 51 1349025726
+/
+188-223-104-103.zone14.bethere.co.uk
+0 45 43 1149346 2 1347649499
+/innovation.html
+msnbot-157-56-93-207.search.msn.com
+0 2 0 419 1 1347505284
+-
+80.84.1.23
+0 46 44 1398968 2 1347892626
+/services.html
+host86-172-224-2.range86-172.btcentralplus.com
+0 23 21 946041 1 1346915959
+/
+host217-45-220-198.in-addr.btopenworld.com
+0 37 35 1649276 1 1347551311
+/about.html
+d58-109-28-187.dsl.nsw.optusnet.com.au
+0 19 18 929462 1 1346660919
+/
+crawl-66-249-72-37.googlebot.com
+0 2 1 636041 0 0
+-
+anon-155-28.relakks.com
+0 2 2 14197 1 1346646088
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-157-55-33-49.search.msn.com
+0 2 0 208 1 1348986504
+/
+crawl-66-249-76-63.googlebot.com
+0 2 1 8212 2 1348973920
+/
+crawl03.exabot.com
+0 2 1 116744 0 0
+-
+cpc1-kirk2-0-0-cust11.14-1.cable.virginmedia.com
+0 21 21 302915 1 1349025857
+/recruitment.html
+msnbot-157-56-94-169.search.msn.com
+0 9 8 57700 4 1349018599
+/about.html
+host81-154-215-122.range81-154.btcentralplus.com
+0 38 34 1099881 1 1348995247
+/services.html
+host86-135-140-193.range86-135.btcentralplus.com
+0 35 34 1099254 1 1349011400
+/about.html
+31-222-191-216.static.cloud-ips.co.uk
+0 4 3 24772 2 1349023470
+/recruitment.html
+164-177-157-244.static.cloud-ips.co.uk
+0 3 2 14599 1 1348994038
+/
+95.145.120.174
+0 26 24 1044664 1 1349025692
+/
+baiduspider-180-76-5-184.crawl.baidu.com
+0 1 0 208 0 0
+-
+spider-199-21-99-85.yandex.com
+0 4 2 12970 2 1349025726
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.albagas.co.uk/innovation.html
+1 83
+- (Direct Request)
+0 1654
+http://www.albagas.co.uk/privacy.html
+1 2
+http://www.google.co.uk/search
+0 20
+http://domesticheating.mitsubishielectric.co.uk/aei/profile/1333/PA23 8TL
+0 2
+http://www.hetas.co.uk/nearest_member/search
+0 19
+http://www.oftec.org/Technicians/Technician
+0 1
+http://www.tdlhomes.com/emergency-contractors-list/
+0 3
+http://www.google.co.uk/url
+0 64
+http://www.google.com/search
+0 1
+http://search.babylon.com/
+0 1
+http://www.albagas.co.uk
+1 8
+http://www.albagas.co.uk/files/switchsafe.easm
+1 2
+http://www.albagas.co.uk/switchsafe.html
+1 86
+http://www.google.com.sa/url
+0 1
+http://www.albagas.co.uk/style.css
+1 502
+http://www.bing.com/search
+0 7
+http://maps.google.co.uk/maps
+0 3
+http://www.thomsonlocal.com/Woodburning stoves/in/Glasgow/
+0 2
+http://yandex.ru/yandsearch
+0 4
+http://www.albagas.co.uk/recruitment.html
+1 106
+http://www.google.com
+0 1
+http://www.google.com/url
+0 2
+http://www.albagas.co.uk/robots.txt
+1 19
+http://uk.search.yahoo.com/search
+0 1
+http://albagas.co.uk/
+1 77
+http://www.albagas.co.uk/
+1 2642
+http://www.elainesstovesandfluesex20.co.uk/Woodburning-stoves/in/Erskine/
+0 1
+http://www.albagas.co.uk/contact.php
+1 244
+http://albagas.co.uk/style.css
+1 8
+http://www.albagas.co.uk/index.html
+1 71
+http://www.google.ie/search
+0 1
+http://www.albagas.co.uk/services.html
+1 346
+http://www.google.co.id/url
+0 1
+http://www.albagas.co.uk/plugsafe.html
+1 32
+http://www.google.com.au/url
+0 1
+http://www.google.co.uk/hws/search
+0 1
+http://www.google.com/m/search
+0 1
+http://search.bt.com/result
+0 5
+http://search.aol.co.uk/aol/search
+0 1
+http://www.albagas.co.uk/about.html
+1 570
+http://www.sitedossier.com/site/www.albagas.co.uk
+1 1
+http://www.yell.com/b/Alba+Gas+Ltd-Gas+Installers-Glasgow-G513BA-4164231/
+0 1
+http://www.yell.com/b/Alba+Gas+Ltd-Gas+Installers-glasgow-G513BA-4164231/
+0 1
+http://search.babylon.com/web/glasgow gas fitters
+0 1
+http://www.google.co.uk/m/search
+0 2
+http://www.google.it/url
+0 2
+# End Of Table - referrers
+# -agents- 
+YahooCacheSystem
+0 2
+Python-urllib/2.6
+0 8
+Python-urllib/2.7
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101
+0 7
+Mozilla/4.0 (compatible;)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoP
+0 15
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.18) 
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML,
+0 75
+Mozilla/5.0 (Windows NT 5.1; rv:14.0) Gecko/20100101 Firefox/
+0 110
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.4; .N
+0 37
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox
+0 6
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 3
+Googlebot-Image/1.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:12.0) Gecko/2
+0 39
+Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.
+0 38
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.
+0 124
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) 
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
+0 483
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/5
+0 97
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+0 11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like 
+0 13
+Opera/9.20 (Windows NT 6.0; U; de)
+0 12
+Mozilla/5.0 (compatible; aiHitBot/1.1; +http://www.aihit.com/
+0 13
+Mozilla/5.0+(compatible;+CukBot;+Not+a+spammer;+++http://www.
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3; ips-agent
+0 11
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/I
+0 21
+Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) Appl
+0 24
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.ht
+0 33
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like G
+0 15
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.
+0 62
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:11.0) Gecko/2
+0 274
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.1 (KHTML, like G
+0 17
+Mozilla/5.0 (Linux; U; Android 2.3.3; en-gb; GT-S5830 Build/G
+0 23
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http:
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.c
+0 28
+Mozilla/5.0 (Linux; U; Android 2.3.3; en-gb; GT-I9100-ORANGE/
+0 19
+Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/ro
+0 11
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us) Appl
+0 19
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/53
+0 149
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64
+0 95
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) Appl
+0 19
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Tri
+0 25
+Mozilla/4.0 (CMS Crawler: http://www.cmscrawler.com)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 31
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML
+0 34
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Tri
+0 164
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.8) G
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:15.0) Gecko/2
+0 24
+InnovantageBot/1.0 (http://www.innovantage.co.uk/technology/w
+0 77
+Mozilla/5.0 (Linux; U; Android 2.3.4; en-gb; GT-I9100 Build/G
+0 19
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; en-GB) AppleWebK
+0 23
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; SV1; .NET 
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8) AppleWebKit/536.
+0 24
+Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 F
+0 121
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; HTC_One_X Build/
+0 32
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 24
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.
+0 8
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/
+0 54
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like G
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML,
+0 228
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.
+0 169
+Mozilla/5.0 (compatible; Plukkie/1.4; http://www.botje.com/pl
+0 2
+Mozilla/5.0 (Windows NT 6.0; rv:15.0) Gecko/20100101 Firefox/
+0 35
+Microsoft Office Mobile /14.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, li
+0 3
+Mozilla/4.0 (compatible; GoogleToolbar 7.4.3230.2052; Windows
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) Apple
+0 105
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.14) 
+0 1
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300-ORANGE/
+0 19
+bl.uk_lddc_bot/3.1.1 (+http://www.bl.uk/aboutus/stratpolprog/
+0 52
+Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/
+0 19
+businessdbbot/v1.2 (http://www.businessdb.com/bot.php)
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWe
+0 30
+Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/
+0 19
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) Appl
+0 19
+Mozilla/5.0 (Windows NT 6.1; rv:9.0) Gecko/20100101 Firefox/9
+0 21
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tri
+0 417
+Mozilla/0.91 Beta (Windows)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/53
+0 38
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 103
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0.1) Gecko/20100101 
+0 28
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.28) 
+0 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) Apple
+0 33
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 103
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.
+0 37
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.
+0 192
+Mozilla/5.0 (compatible; WebNL; +http://www.web.nl/webmasters
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trid
+0 16
+Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webc
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 F
+0 22
+Microsoft Office Protocol Discovery
+0 1
+Wget/1.12 (linux-gnu)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.
+0 166
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-u
+0 9
+Opera/9.20 (Windows NT 5.1; U; de)
+0 12
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.10.289 Version/12
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 F
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) G
+0 16
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/201001
+0 528
+Mozilla/4.0 (compatible; GoogleToolbar 7.4.3203.136; Windows 
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like G
+0 293
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 141
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/53
+0 43
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GenealogyB
+0 35
+Mozilla/5.0 (compatible; MJ12bot/v1.4.3; http://www.majestic1
+0 25
+LSSRocketCrawler/1.0 LightspeedSystems
+0 14
+SAMSUNG-GT-S3350/1.0 NetFront/3.5 Profile/MIDP-2.0 Configurat
+0 28
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.1.9) Geck
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NE
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:13.0) Gecko/20100101 Firef
+0 20
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.
+0 182
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 3
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-N7000 Build/I
+0 19
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9
+0 10
+Mozilla/5.0 (PLAYSTATION 3 4.25) AppleWebKit/531.22.8 (KHTML,
+0 11
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/200
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FDM)
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.5; en-gb; HTC_WildfireS_A5
+0 35
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 257
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.
+0 98
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like G
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NE
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.4; Mo
+0 25
+Opera/9.50 (J2ME/MIDP; Opera Mini/5.1.2169/27.1659; U; en)
+0 46
+libwww-perl/5.837
+0 2
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; en-GB) AppleWebK
+0 18
+# End Of Table - agents
+# -search strings- 
+switchsafe
+1
+wood burning stoves glasgow
+1
+alba gas cooker
+1
+alba gas govan
+1
+gas cookers - alba
+1
+alba gas
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

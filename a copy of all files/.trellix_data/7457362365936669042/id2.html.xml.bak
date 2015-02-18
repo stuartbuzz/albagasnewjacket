@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title>Contact Us</Title>
+		<Area Type="subhead">
+			<Para>Tell us what you think!</Para>
+		</Area>
+		<Area Type="main">
+			<Para Align="L" Color="" FontName="" FontSize="" FontStyle="" PromptObject=""> &lt;br&gt;This is where we give our customers a chance to tell us what they think about our web site. Is there anything you would like to see us offer? Do you have any questions or comments? Our business depends on your satisfaction, so please let us know what you think.  &lt;br&gt;  &lt;br&gt;Just click this address to send us e-mail:</Para>
+			<Link Align="L" FontName="" FontSize="" FontStyle="" HRef="mailto:info@albagas.co.uk" LinkType="M" SpacingBefore="1">info@albagas.co.uk</Link>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>Or give us a call at 0141 445 4422]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+		</Area>
+		<Area Type="area_a">
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV><STRONG>Related Links</STRONG>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>In this area, we will include any links related to our business or that we think will interest our customers. We may also provide links to other interesting&nbsp;sites you may want to visit.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>CORGI]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Link Align="L" FontName="" FontSize="" FontStyle="" HRef="http://www.trustcorgi.co.uk" LinkType="U" SpacingBefore="1" Target="_self">www.trustcorgi.co.uk</Link>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>Alba Gas Ltd]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Link Align="L" FontName="" FontSize="" FontStyle="" HRef="http://www.albagas.co.uk" LinkType="U" SpacingBefore="1" Target="_self">www.albagas.co.uk</Link>
+		</Area>
+		<Area Type="area_b"/>
+		<Area Type="runner"/>
+		<Area Type="area_c"/>
+		
+	</Page>

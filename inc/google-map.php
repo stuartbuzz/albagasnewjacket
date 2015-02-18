@@ -1,0 +1,5 @@
+<div class="googleMap" style="float:right;width:280px;">
+	<p>Alba Gas predominantly cover West and Central Scotland, although we are available in all of Scotland and Northern England.</p>
+	
+	<iframe width="280" height="160" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=G51+3BA&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=10.400527,28.54248&amp;ie=UTF8&amp;hq=&amp;hnear=Glasgow+G51+3BA,+United+Kingdom&amp;t=m&amp;ll=55.864331,-4.314194&amp;spn=0.007706,0.024033&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=G51+3BA&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=10.400527,28.54248&amp;ie=UTF8&amp;hq=&amp;hnear=Glasgow+G51+3BA,+United+Kingdom&amp;t=m&amp;ll=55.864331,-4.314194&amp;spn=0.007706,0.024033&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+</div>

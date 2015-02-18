@@ -1,0 +1,85 @@
+/*======= index.html =======*/
+
+#page1 .row-1 .line-ver-1 {background-position: 228px 0%}
+#page1 .row-1 .line-ver-2 {background-position: 468px 0%}
+#page1 .row-1 .line-ver-3 {background-position: 710px 0%}
+
+#page1 .row-1 .col-1 {width: 203px; padding: 0 20px 0 6px;}
+#page1 .row-1 .col-2 {width: 203px; padding: 0 19px 0 18px;}
+#page1 .row-1 .col-3 {width: 203px; padding: 0 20px 0 19px;}
+#page1 .row-1 .col-4 {width: 203px; padding: 0 4px 0 18px;}
+
+#page1 .row-2 .line-ver-4 {background-position: 312px 0%}
+#page1 .row-2 .line-ver-5 {background-position: 626px 0%}
+
+#page1 .row-2 .col-1 {width: 264px; padding: 0 30px 0 19px;}
+#page1 .row-2 .col-2 {width: 250px; padding: 0 30px 0 34px;}
+#page1 .row-2 .col-3 {width: 243px; padding: 0 20px 0 32px;}
+
+/*======= index-1.html =======*/
+
+#page2 .row-1 .line-ver-1 {background-position: 228px 0%}
+
+#page2 .row-1 .col-1 {width: 203px; padding: 0 20px 0 6px;}
+#page2 .row-1 .col-2 {width: 689px; padding: 0 0 0 18px;}
+
+#page2 .row-2 .line-ver-4 {background-position: 312px 0%}
+#page2 .row-2 .line-ver-5 {background-position: 626px 0%}
+
+#page2 .row-2 .col-1 {width: 264px; padding: 0 30px 0 19px;}
+#page2 .row-2 .col-2 {width: 260px; padding: 0 20px 0 34px;}
+#page2 .row-2 .col-3 {width: 243px; padding: 0 20px 0 32px;}
+
+/*======= index-2.html =======*/
+
+#page3 .row-1 .line-ver-1 {background-position: 310px 0%}
+#page3 .row-1 .line-ver-2 {background-position: 625px 0%}
+#page3 .row-1 .line-ver-3 {background-position: 710px 0%}
+
+#page3 .row-1 .col-1 {width: 297px; padding: 0 10px 0 6px;}
+#page3 .row-1 .col-2 {width: 297px; padding: 0 9px;}
+#page3 .row-1 .col-3 {width: 297px; padding: 0 0 0 10px;}
+#page3 .row-1 .col-4 {width: 203px; padding: 0 4px 0 18px;}
+
+#page3 .row-2 {padding: 0 0 19px 0;}
+#page3 .row-2 .line-ver-1 {background-position: 468px 0%}
+#page3 .row-2 .col-1 {width: 444px; padding: 0 20px 0 6px;}
+#page3 .row-2 .col-2 {width: 448px; padding: 0 0 0 18px;}
+
+#page3 .row-3 .line-ver-4 {background-position: 312px 0%}
+#page3 .row-3 .line-ver-5 {background-position: 626px 0%}
+
+#page3 .row-3 .col-1 {width: 264px; padding: 0 30px 0 19px;}
+#page3 .row-3 .col-2 {width: 250px; padding: 0 30px 0 34px;}
+#page3 .row-3 .col-3 {width: 243px; padding: 0 20px 0 32px;}
+
+/*======= index-3.html =======*/
+
+#page4 .row-1 .line-ver-1 {background-position: 228px 0%}
+
+#page4 .row-1 .col-1 {width: 203px; padding: 0 20px 0 6px;}
+#page4 .row-1 .col-2 {width: 689px; padding: 0 0 0 18px;}
+
+#page4 .row-2 .line-ver-4 {background-position: 312px 0%}
+#page4 .row-2 .line-ver-5 {background-position: 626px 0%}
+
+#page4 .row-2 .col-1 {width: 264px; padding: 0 30px 0 19px;}
+#page4 .row-2 .col-2 {width: 260px; padding: 0 20px 0 34px;}
+#page4 .row-2 .col-3 {width: 243px; padding: 0 20px 0 32px;}
+
+/*======= index-4.php =======*/
+
+#page5 .row-1 .line-ver-1 {background-position: 710px 0%}
+
+#page5 .row-1 .col-1 {width: 689px; padding: 0 20px 0 6px;}
+#page5 .row-1 .col-2 {width: 206px; padding: 0 0 0 15px;}
+#page5 .row-1 .col-1 .block-1 {padding: 0 30px 21px 0;}
+#page5 .row-1 .col-1 .block-2 {width: 206px; padding: 0 30px 21px 0;}
+#page5 .row-1 .col-1 .block-3 {width: 206px; padding: 0 36px 21px 0;}
+
+#page5 .row-2 .line-ver-4 {background-position: 312px 0%}
+#page5 .row-2 .line-ver-5 {background-position: 626px 0%}
+
+#page5 .row-2 .col-1 {width: 264px; padding: 0 30px 0 19px;}
+#page5 .row-2 .col-2 {width: 260px; padding: 0 20px 0 34px;}
+#page5 .row-2 .col-3 {width: 243px; padding: 0 20px 0 32px;}

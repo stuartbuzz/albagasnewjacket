@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title formal="true">Recruitment</Title>
+		<Area Type="subhead">
+			<Para Align="" Color="" FontDefstyle="3" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>This is our recruitment page.&nbsp; Alba Gas are a forward thinking rapidly expanding company.&nbsp; On this page we will post details of vacant positions but feel free to call at any time for an informal chat.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+		</Area>
+		<Area Type="main">
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV><FONT size=3><STRONG>We are currently recruiting expierenced, fully qualified central heating installers for major contracts throughout Scotland.</STRONG></FONT>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>Applicants must posess:</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<UL>
+<LI>Current ACS certificates in CCN1 and CEN1 
+<LI>Full clean driving licence 
+<LI>The ability to install central heating systems to a very high standard<BR><BR><BR><BR>]]><ButtonPlace/><![CDATA[</LI></UL>]]></Para>
+		</Area>
+		<Area Type="area_a">
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV><FONT size=3><STRONG>Future recruitment</STRONG></FONT>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>Alba Gas Ltd are&nbsp;a rapidly expanding dynamic company.&nbsp; As we attain additional contracts we will be recruiting the following trades personal:</DIV>
+<DIV>&nbsp;</DIV>
+<UL>
+<LI>Gas service engineers</LI>
+<LI>Gas, oil and electric heating installers</LI>
+<LI>Central heating surveyors &amp; quality control inspectors</LI>
+<LI>Electricians</LI></UL>
+<P>&nbsp;</P>
+<P><STRONG><EM>Alba Gas Ltd are an equal opportunities employer</EM></STRONG>]]><ButtonPlace/><![CDATA[</P>]]></Para>
+		</Area>
+		<Area Type="runner">
+			<Para Align="C" Color="" FontName="" FontSize="" FontStyle="">Do you have any questions? Send us an e-mail at:</Para>
+			<Link Align="C" FontName="" FontSize="" FontStyle="3" HRef="mailto:" LinkType="M" SpacingBefore="1">info@albagas.co.uk</Link>
+		</Area>
+		<Area Type="area_b"/>
+		<Area Type="area_c"/>
+		
+	<TitleArea display-type="text" hide="no"><Para><![CDATA[Recruitment]]></Para></TitleArea><HtmlTitle>Recruitment</HtmlTitle><header-tags><keywords/><description/><additional-header-info><PassThruPublishHTML/></additional-header-info></header-tags></Page>

@@ -1,0 +1,470 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*
+green #1194A3
+*/
+
+html {
+	overflow-y: scroll;
+}
+
+body{
+	padding:0;
+	margin:0;
+	background:#f4f5f5 url(../img/bg-body.png) repeat-y center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#666;
+}
+
+h1{
+	font-weight:normal;
+	font-size:30px;
+	padding:0 0 0 0;
+	margin:0 0 20px 0;	
+}
+
+h2{
+	font-weight:normal;
+	padding:10px 0 0 0;
+	margin:0 0 10px 0;
+}
+
+h3{
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-size:13px;
+	line-height:16px;
+}
+
+p{
+	padding:0 0 0 0;
+	margin: 0 0 20px 0;
+	line-height:20px;
+}
+
+a{
+	color:#1194A3;
+	font-weight:bold;
+	text-decoration:none;	
+}
+
+a:hover{
+	text-decoration:underline;	
+}
+
+ul{
+	padding:0 0 0 0;
+	margin:0 0 30px 0;
+	list-style:none;
+}
+
+li{
+	padding:0 0 0 30px;
+	background:url(../img/red-dot.jpg) no-repeat;
+	margin:0 0 10px 0;
+	line-height:20px;
+}
+
+a img{
+	border:0;	
+}
+
+textarea{
+	resize:none;	
+}
+
+table td{
+	/*background:#C30;*/
+}
+
+/****************************************************/
+
+.wrapper{
+	width:960px;
+	background:#FFF;
+	margin:0 auto;	
+}
+
+/****************************************************/
+
+.banner{
+	height:145px;
+	background:url(../img/bg-banner-gas.png);
+	position:relative;
+}
+
+.banner .contactLink{
+	position:absolute;
+	top:60px;
+	right:0;
+	width:250px;
+	height:80px;
+	display:block;	
+}
+
+.sectionHome .banner{ background:url(../img/bg-banner-home.png); }
+.sectionElectrics .banner{ background:url(../img/bg-banner-electrics.png); }
+.sectionRenewables .banner{ background:url(../img/bg-banner-renewables.png); }
+.sectionSolidFuel .banner{ background:url(../img/bg-banner-solidfuel.png); }
+.sectionOil .banner{ background:url(../img/bg-banner-oil.png); }
+
+
+.bannerEdge{
+	background:url(../img/bg-banner-edge.png);
+	width:7px;
+	height:44px;
+	position:absolute;
+	top:69px;
+	right:-7px;	
+}
+
+.freeQuote{
+	background:url(../img/ad-free-quote.jpg);
+	position:absolute;
+	display:block;
+	right:-160px;
+	top:200px;
+}
+
+/****************************************************/
+
+.navTop{
+	width:970px;
+	height:52px;
+	background:url(../img/bg-nav-top.png) no-repeat;
+	font-size:15px;
+}
+.navTop ul{
+	padding:13px 0 0 11px;
+	margin:0;
+	
+}
+.navTop li{
+	display:inline;
+	padding:0;
+	margin:0 10px 0 0;
+	background-image:none;
+}
+.navTop a{
+	background:url(../img/bg-white.png);
+	display:inline-block;
+	padding:4px 24px 4px 24px;
+	margin:0;
+}
+.navTop a:hover{
+	/*background:#1194A3;*/
+	background:url(../img/bg-turquoise.png);
+	color:#FFF;
+	text-decoration:none;
+}
+
+.sectionHome .linkHome,
+.sectionAbout .linkAbout,
+.sectionGas .linkGas,
+.sectionElectrics .linkElectrics,
+.sectionRenewables .linkRenewables,
+.sectionSolidFuel .linkSolidFuel,
+.sectionOil .linkOil,
+.sectionContact .linkContact{
+	background:url(../img/bg-turquoise.png); color:#FFF;
+}
+
+/****************************************************/
+
+.breadCrumbs{
+	background:url(../img/bg-breadcrumbs.png) bottom no-repeat #FFF;
+	padding:6px 0 7px 85px;
+	margin:0 0 20px 0;
+	font-size:11px;
+}
+
+/****************************************************/
+
+.layout1{
+	padding:10px 0 0 30px;
+}
+
+.layout1 .column1,
+.layout1 .column2,
+.layout1 .column3,
+.layout1 .column4{
+	width:220px;
+	height:324px;
+	margin:0 4px 50px 0;
+	float:left;
+	position:relative;
+}
+
+.layout1 p{
+	position:absolute;
+	top:288px;
+	left:12px;
+	width:160px;
+	font-size:11px;
+	line-height:16px;
+}
+
+.layout1 .imageLink{
+	height:324px;
+	display:block;
+}
+
+/*.layout1 .column1 .featureHome,
+.layout1 .column2 .featureHome,
+.layout1 .column3 .featureHome{
+	width:220px;
+	padding:0 0 0 0;
+}
+
+.layout1 .column4 .featureHome{
+	
+}
+
+.featureHome p{
+	top:284px;
+	left:12px;
+	width:160px;
+	font-size:11px;
+}*/
+
+/****************************************************/
+
+.layout2{
+	background:#FFF;
+	padding:20px 0 0 0;
+}
+
+.layout2 .column1{
+	width:200px;
+	margin-right:20px;
+}
+.layout2 .column2{
+	width:520px;
+	margin-right:20px;
+}
+.layout2 .column3{
+	width:200px;
+}
+
+.column1,
+.column2,
+.column3{
+	/*background:#FF0;*/
+	float:left;
+	margin:0 0 40px 0;
+}
+
+/****************************************************/
+
+.navSide{
+	left:-6px;
+	width:206px;
+	clear:both;
+	margin-left:-6px;
+}
+
+.navSide ul{
+	padding:0 0 0 6px;
+	margin:0 0 20px 0;
+	list-style:none;
+}
+
+.navSide li{
+	padding:0 0 0 30px;
+	background:url(../img/nav-side-gradient.png) center repeat-x;
+	
+}
+.navSide a{
+	/*background:url(../img/icon-supply.png) no-repeat center left;*/
+	background-position:center left;
+	background-repeat:no-repeat;
+	padding:14px 10px 14px 40px;
+	display:block;
+}
+
+.navSide h3{
+	padding:6px 0 6px 40px;
+	margin:0 0 0 0;
+	background:url(../img/bg-nav-side-header.png);
+	color:#FFF;
+}
+
+.navSideEdge{
+	height:10px;
+	width:6px;
+	margin:0 0 20px 0;
+	clear:both;
+	background:url(../img/nav-side-edge.png);	
+}
+
+/****************************************************/
+
+.iconSupply{
+	background:url(../img/icon-supply.png);
+}
+.iconServicing{
+	background:url(../img/icon-servicing.png);
+}
+.iconMaintenance{
+	background:url(../img/icon-maintenance.png);
+}
+
+.iconPlumbing{
+	background:url(../img/icon-plumbing.png);
+}
+
+/****************************************************/
+
+.featuresSide{
+	text-align:right;
+	background:url(../img/bg-features-side.png) bottom center;	
+	padding:0 0 60px 0;
+}
+
+.featuresSide a:hover{
+	color:#FFF;
+}
+
+.featuresSide h3{
+	background:url(../img/features-side-heading.png);
+	display:block;
+	padding:6px 10px 0 10px;
+	margin:0 0 10px; 0;
+	height:24px;/*30*/
+	color:#FFF;
+}
+
+.featuresSide h3.teal{
+	background:url(../img/features-side-heading-teal.png);
+}
+
+.featuresSide p{
+	font-size:11px;
+	line-height:16px;
+	padding:0 10px 0 10px;	
+	margin:0 0 10px 0;
+}
+
+
+/****************************************************/
+
+.featuresBottom{
+	/*height:100px;*/
+	width:920px;/*960*/
+	float:left;
+	padding:0 20px 0 20px;
+	background:url(../img/bg-features-bottom.png) center center;
+}
+
+.featuresBottom .feature{
+	width:190px;/*228*/
+	float:left;
+	margin:0 0 0 0;
+	padding:0 20px 0 20px;
+}
+
+.featuresBottom .feature h3{
+	display:block;
+	background:url(../img/feature-bottom-heading.png);
+	color:#FFF;
+	padding:6px 10px 0 10px;
+	margin:0 0 10px; 0;
+	height:24px;/*30*/
+}
+
+.featuresBottom .feature p{
+	text-align:center;
+	font-size:11px;
+	line-height:16px;
+}
+
+/****************************************************/
+
+.footer{
+	clear:both;
+	padding:20px;
+	margin:0 0 40px 0;
+	background:url(../img/footer-line.png) no-repeat center top;
+}
+
+.footer .links1{
+	padding:0;
+	margin:0 0 30px 0;
+}
+.footer .links1 li{
+	display:inline;
+	margin:0 3px 0 0;
+	background-image:none;
+	padding:0;
+}
+
+.footer .links2{
+	font-size:11px;
+	float:left;	
+}
+
+.footer .credits{
+	font-size:11px;
+	float:right;
+}
+
+/*****************************************************/
+
+.contactForm{
+	clear:both;
+}
+
+.contactForm .success{
+	float:left;
+	width:200px;
+}
+
+.contactForm form{
+	float:left;
+	width:200px;
+}
+.contactForm form input{
+	width:200px;
+	border:1px solid #DDD;	
+	font-size:14px;
+	padding:4px 6px 4px 6px;
+}
+.contactForm form input[type="submit"]{
+	width:100px;
+	float:right;
+}
+.contactForm form textarea{
+	width:200px;
+	border:1px solid #DDD;
+	overflow: auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:4px 6px 4px 6px;
+}
+
+.contactForm form .error{
+	color:#F00;	
+}
+
+/****************************************************/
+.tickList{
+	list-style:none;	
+}
+.tickList li{
+	background:url(../img/tick.png) no-repeat;
+	padding:0 0 4px 30px;
+	margin:0 0 6px 0;
+}
+
+/****************************************************/
+
+.end{
+	margin-right:0;
+}
+
+
+.imgRight{
+	float:right;	
+}

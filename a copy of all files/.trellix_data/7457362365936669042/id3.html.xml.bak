@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title>Catalog</Title>
+		<Area Type="subhead">
+			<Para Align="L" Color="" FontName="" FontSize="" FontStyle="">This page will present a complete list of our product lines. You can view product line by clicking a link.</Para>
+		</Area>
+		<Area Type="main">
+			<Para>As we add new product lines, we may add additional pages to our site.</Para>
+			<Para Align="L" Color="" FontName="" FontSize="" FontStyle="">For example, if we sold sporting goods, we might include the following product lines: &lt;br&gt; &lt;br&gt;Outdoor Goods &lt;br&gt;Indoor Goods &lt;br&gt;Water Activities</Para>
+		</Area>
+		<Area Type="area_a">
+			<Para Align="L" FontName="" FontSize="" FontStyle="1" PromptObject="">This month&apos;s special:</Para>
+			<Para>Product 1 (#2311)</Para>
+			<Img Align="L" AltText="zencomputers.jpg" Caption="" Frame="" HRef="" HSpace="0" ImgAlign="" ImgType="" SpacingBefore="0" Target="" Title="" VSpace="0" Width="240">zencomputers.jpg</Img>
+		</Area>
+		<Area Type="runner"/>
+		<Area Type="area_b"/>
+		<Area Type="area_c"/>
+		
+	</Page>

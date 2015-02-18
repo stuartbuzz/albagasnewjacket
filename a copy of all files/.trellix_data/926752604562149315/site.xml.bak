@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Site DesignDir="926752604562149315" FileSpec="926752604562149315/site.xml" ModifiedTime="1168530512000" NextPageId="2" NoBlank="" TemplateXML="blank.xml" Version="" lock-design="">
+	<Title>Blank (Start From Scratch)</Title>
+	<Description>SITE DESCRIPTION</Description>
+	<Page Layout="mkg_retro_1.xsl" PageId="index" PublishFile="index.html" SeparateFile="Y" Type="Home" defselect="Y">
+		<Title>Alba Gas Ltd</Title>
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles><source/></twiddles></Page>
+	<Page Layout="mkg_retro_2.xsl" PageId="id1" PublishFile="id1.html" SeparateFile="Y" Type="1-Column Page" defselect="Y">
+		<Title>Page Title</Title>
+		
+		
+		
+		
+		
+		
+	<GemList><![CDATA[ ]]></GemList><twiddles><source/></twiddles></Page>
+	
+	
+	
+	
+	
+	
+<Area Type="footer"><Para Align="" Color="" FontDefstyle="1" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV align=center><STRONG>Alba Gas Ltd, Unit 9, 6 Harmony Row, Glasgow, G51 3BA</STRONG></DIV>
+<DIV align=center><STRONG>Tel: 0141 445 4422</STRONG></DIV>
+<DIV align=center><STRONG>Fax: 0141 440 2369</STRONG></DIV>
+<DIV align=center><STRONG>e-mail: info@albagas.co.uk</STRONG>]]><ButtonPlace/><![CDATA[</DIV>]]></Para></Area></Site>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title>About Us</Title>
+		<Area Type="subhead">
+			<Para Align="L" Color="" FontName="" FontSize="" FontStyle="" PromptObject="">Many customers like to know about the company and people behind the products they buy. Here we will tell you a little about ourselves and our company.</Para>
+		</Area>
+		<Area Type="main">
+			<Para FontStyle="1">Our Business Philosophy</Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>The objective of our business is to provide a high quality&nbsp;and reliable service for our customers. We hope you will enjoy visiting our web site and we hope to be of service in the very near future.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV><STRONG>Our Management Team</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG><EM>Operations Manager</EM></STRONG>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>Operations Manager, David Liddell has 25 years experience in the gas industry.&nbsp; As an ex Training &amp; Assessment Centre Manager he brings a wealth of knowledge, is customer focused and driven to provide the excellant Standards of Service that customers expect in this challenging market place.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+		<Img Align="L" AltText="image9.jpg" Caption="" Frame="" HRef="" HSpace="5" ImgAlign="" ImgType="GUIM" SpacingBefore="1" Target="" Title="" VSpace="0" Width="240" lpath=""><![CDATA[.pond/image9.jpg.w300h225.jpg]]></Img></Area>
+		<Area Type="area_a">
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV><STRONG><EM>Installation Manager</EM></STRONG>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>John Carpenter, himself and ex Gas Industry Trainer and Quality Manager brings&nbsp;unsurpassed installation skills to the&nbsp;Management Team of Alba Gas.&nbsp; He has grown a first class division of heating installation technicians who's quality shines through every job.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+			
+			
+			<Img Align="L" AltText="alba.jpg" Caption="" Frame="" HRef="" HSpace="5" ImgAlign="" ImgType="GUIM" SpacingBefore="1" Target="" Title="" VSpace="0" Width="240" lpath="">alba.jpg</Img>
+		</Area>
+		<Area Type="runner">
+			<Link Align="C" FontName="" FontSize="" FontStyle="3" HRef="mailto:" LinkType="M">info@ourcompany.com</Link>
+		</Area>
+		<Area Type="area_b"/>
+		<Area Type="area_c"/>
+		
+	</Page>

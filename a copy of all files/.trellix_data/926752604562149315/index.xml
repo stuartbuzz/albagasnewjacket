@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title>Alba Gas Ltd</Title>
+		<Area Type="subhead">
+			<Para Align="" Color="" FontDefstyle="3" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="1" TextMode="rich"><![CDATA[<DIV>This is the Homepage for Alba Gas Ltd]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+		</Area>
+		<Area Type="main">
+			<Para>Enter main content here</Para>
+		</Area>
+		<Area Type="area_a">
+			<Para>Enter secondary content here</Para>
+		</Area>
+		<Area Type="runner">
+			<Para>Enter supporting content here</Para>
+		</Area>
+		<Area Type="area_b"/>
+		<Area Type="area_c"/>
+	</Page>

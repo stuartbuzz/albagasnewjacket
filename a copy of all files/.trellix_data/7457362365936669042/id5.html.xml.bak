@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title>Our Location</Title>
+		<Area Type="subhead"/>
+		<Area Type="main">
+			<Para Align="L" Color="" FontName="" FontSize="" FontStyle="" PromptObject="">On this page we&apos;ll provide detailed directions or a map to our location. Please stop by and visit if you are in the area.</Para>
+			<Gem ClassId="tlx.tlx.page_counter" CreateTime="1173714564507" EditArgs="&apos;framed&apos;"><GemData><noincr></noincr><init>10</init><type>g</type><cid>1173714545</cid><noincr0>on</noincr0></GemData></Gem>
+		</Area>
+		<Area Type="runner"/>
+		<Area Type="area_a"/>
+		<Area Type="area_b"/>
+		<Area Type="area_c"/>
+		
+	</Page>

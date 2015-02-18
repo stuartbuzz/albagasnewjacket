@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Page>
+		<Title formal="true">Our Services</Title>
+		<Area Type="subhead">
+			<Para Align="" Color="" FontDefstyle="3" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="0" TextMode="rich"><![CDATA[<DIV>On this page we will list all of the&nbsp;services we offer as part of our main core business. Please check in often because we will frequently update&nbsp;this page with new services as our company grows.]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+		</Area>
+		<Area Type="main">
+			<Table Color="#000000" FontName="Verdana,Arial,Helvetica,sans-serif" FontSize="1" FontStyle="0" Frame="1" FrameColor="0066ff" TemplateId="layout5" TlxClass="callout" bgcolor="" border="0" bordercolor="" cellpadding="1" cellspacing="0" width="100%">
+				
+				
+			<Row><Cell FontSize="3" FontStyle="1" TlxField="area3" bgcolor="#ffffff">
+						<Para Align="" Color="" FontDefstyle="1" FontName="" FontSize="" FontStyle="0" PromptObject="" SpacingBefore="0" TextMode="rich"><![CDATA[<DIV align=left><FONT face=Arial,Helvetica,sans-serif color=#000066 size=3><STRONG>Alba Gas.....What can we do for you?</STRONG></FONT>]]><ButtonPlace/><![CDATA[</DIV>]]></Para>
+					</Cell></Row><Row><Cell TlxField="area2" align="left" bgcolor="00ccff" valign="middle">
+						<Para Align="" Color="" FontDefstyle="0" FontName="" FontSize="" FontStyle="" PromptObject="" SpacingBefore="0" TextMode="rich"><![CDATA[<DIV><FONT face=Verdana,Arial,Helvetica,sans-serif color=#3300ff size=2>Alba Gas can :-</FONT></DIV>
+<DIV><FONT color=#3300ff size=2></FONT>&nbsp;</DIV>
+<UL>
+<LI><FONT size=2><FONT color=#3300ff>Install, service, repair and maintain all gas cookers, fires, water hearters and central heating boilers / systems.</FONT> </FONT>
+<LI><FONT size=2><FONT color=#3300ff>Upgrade systems to high efficiency condensing boilers</FONT> </FONT>
+<LI><FONT size=2><FONT color=#3300ff>Carry out boiler changes and complete system design &amp; installation for Gas, Oil or Electric central heating systems.</FONT> </FONT>
+<LI><FONT size=2><FONT color=#3300ff>Carry out landlord gas (CP12)&nbsp;&amp; electric&nbsp;Safety Checks.</FONT> </FONT>
+<LI><FONT size=2><FONT color=#3300ff>Carry out Periodic Electrical Inspection &amp; Portable Appliance Testing (PAT).</FONT> </FONT>
+<LI><FONT color=#3300ff size=2>Offer a specialist 'Powerflush' for heating systems using the very latest 'Magnetite' technology.</FONT> </LI></UL>
+<P><FONT color=#3300ff size=2></FONT>&nbsp;]]><ButtonPlace/><![CDATA[</P>]]></Para>
+						
+					</Cell></Row></Table>
+			
+		</Area>
+		<Area Type="area_b"/>
+		<Area Type="runner"/>
+		<Area Type="area_c"/>
+		<Area Type="area_a">
+			
+		<Img Align="L" AltText="image5.jpg" Caption="" Frame="" HRef="" HSpace="5" ImgAlign="" ImgType="GUIM" SpacingBefore="1" Target="" Title="" VSpace="0" Width="240" lpath=""><![CDATA[.pond/image5.jpg.w300h225.jpg]]></Img><Img Align="" AltText="image9.jpg" Caption="" Frame="" HRef="" HSpace="5" ImgAlign="Right" ImgType="GUIM" SpacingBefore="1" Target="" Title="" VSpace="0" Width="240" lpath=""><![CDATA[.pond/image9.jpg.w300h225.jpg]]></Img></Area>
+		
+	<TitleArea display-type="text" hide="no"><Para Align="L" AltText="" Color="" FontName="" FontSize="" FontStyle="" HRef="" ImgType="" Width=""><![CDATA[Our Services]]></Para></TitleArea></Page>
